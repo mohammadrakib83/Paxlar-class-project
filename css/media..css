@@ -1,0 +1,142 @@
+@media (max-width:1400px){
+    .icon i{
+        margin-left: -136px;
+    }
+}
+
+@media (max-width:1024px){
+    
+.item h2 {
+    color: #efefef;
+    font-weight: bold;
+    margin-top: 115px;
+}
+.banner-section {
+
+}
+.ful-section {
+    min-height: 64vh;
+}
+.mohammad li {
+
+
+}
+.end h6 {
+    margin-top: -6px;
+}
+.mohammad li {
+    padding: 13px;
+}
+
+}
+@media (max-width:992px){
+    .mohammad li {
+        padding: 6px;
+    }
+    .animation3 input {
+        padding: 7px 0px;
+    }
+}
+@media (max-width:991px){
+    .mohammad li {
+        padding: 19px;
+    }
+}
+@media (max-width:769px){
+    .mohammad li {
+        padding: 3px;
+    }
+}
+@media (max-width:768px){
+    .mohammad li {
+        padding: 4px;
+    }
+    .mohammad ul {
+        margin-top: 10px;
+    }
+    .animation3 input{
+        padding: 7px 2px;
+    }
+    .con {
+        position: relative;
+        margin-right: 7px;
+    }
+    .nav-item {
+        text-align: center;
+        margin: auto;
+    }
+}
+@media (max-width:576px){
+    .content2 ul li {
+        padding: 5px;
+    }
+    .content1 p {
+        color: #989898;
+        font-size: 14px;
+        margin-top: 5px;
+    }
+    .content2 ul {
+        margin-left: 234px;
+        padding: 10px 0;
+    }
+    .content2 ul {
+        font-size: 14px;
+        margin-left: 234px;
+        margin-top: -25px;
+    }
+    .content {
+        padding: 10px 66px;
+        margin: 10px 0;
+    }
+    .btn-contact {
+        padding: 5px 12px;
+        margin-left: 13px;
+    }
+    .item h2 {
+        margin-top: 100px;
+    }
+}
+@media (max-width:425px){
+    .mohammad ul {
+        font-size: 12px;
+    }
+    .content2 ul li {
+        font-size: 10px;
+        margin-top: -8px;
+    }
+    .content {
+        padding: 10px 66px;
+        margin: 10px -38px;
+    }
+    .item h2 {
+        margin: 60px 0;
+    }
+}
+@media (max-width:375px){
+    .content2 ul {
+        display: none;
+    }
+    .mohammad ul {
+        list-style: none;
+        display: flex;
+        font-size: 11px;
+    }
+}
+@media(max-width:320px){
+    .mohammad ul {
+        /* list-style: none; */
+        /* display: flex; */
+        /* font-size: 11px; */
+    }
+    .content {
+        margin: 10px -93px;
+    }
+    .item h2 {
+        font-weight: bold;
+        margin: 54px 0;
+        font-size: 21px;
+    }
+    .mohammad li {
+        display: none;
+    }
+}
